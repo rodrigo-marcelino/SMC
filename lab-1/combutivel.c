@@ -1,3 +1,14 @@
+/******************************************************************************
+
+Escreva um programa em C que receba os dados de consumo médio (km/l), tempo gasto numa
+viagem (hora) e a velocidade média (km/h) de um automóvel, e calcule a distância percorrida
+(km) e a quantidade de combustível (litros) utilizada pelo automóvel. Os dados devem ser
+passados ao programa na forma de argumentos no momento da execução. Não deve ser utilizada
+a função scanf ou similares. Ao final, o programa deve exibir os resultados na tela.
+
+*******************************************************************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
