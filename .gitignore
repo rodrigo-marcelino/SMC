@@ -1,6 +1,7 @@
 # Arquivos executáveis
 *.exe
 combustivel
+toUpper
 
 # Prerequisites
 *.d
